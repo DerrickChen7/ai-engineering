@@ -258,3 +258,6 @@ print(random.randint(3, 9))  # 3 to 9 inclusive
 ## String Case
 
 ```python
+char.lower()
+char.upper()
+```
